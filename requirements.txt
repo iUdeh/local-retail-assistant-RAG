@@ -1,0 +1,4 @@
+chromadb
+pandas
+requests
+streamlit
