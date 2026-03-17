@@ -125,7 +125,8 @@ Retrieved context:
 Rules:
 - Use only the retrieved context.
 - Start with a one-line direct answer.
-- Then list matching products as bullet points.
+- Then list matching products using Markdown bullets:
+- product name — stock code — price — country
 - For each bullet, include:
   - product name
   - stock code if available
